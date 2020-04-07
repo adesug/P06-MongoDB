@@ -1,2 +1,2 @@
-# P06-MongoDB
-Praktikum
+# P06-MongoDB-Praktikum
+Pemrograman Komputer 2
